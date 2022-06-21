@@ -1,0 +1,53 @@
+# git ignore file
+
+# Visual Studio Solution preference files.
+*.suo
+*.sdf
+*.opensdf
+*.vcxproj.user
+*.DotSettings.user
+*.userprefs
+*.vsmdi
+*.csproj.user
+*.sfproj.user
+.vs/
+
+# VS Code
+**/.vscode/
+
+*.tlog
+
+# Version Files
+VersionAssemblyInfo.cs
+
+# Misc build artifacts
+
+# Build output
+bin/
+obj/
+*.ipch
+*.idl
+*.tlb
+*.mrg.h
+UpgradeLog.htm
+
+# Development stuff
+*.swp
+tags
+FILES
+junk
+*.out
+*.jmconfig
+
+# Windows image thumbnail cache file
+Thumbs.db
+
+# NDepends utility
+NDependOut/
+*.ndproj
+
+*.pidb
+
+test-results
+
+
